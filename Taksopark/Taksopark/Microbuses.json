@@ -1,0 +1,34 @@
+ [
+    {
+      "model": "Ford Transit",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 2.4,
+      "RacingTo100": 17.3,
+      "FuelConsumption": 13,
+      "price": 10100
+    },
+    {
+      "model": "VW Transporter",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 2.8,
+      "RacingTo100": 16.5,
+      "FuelConsumption": 14,
+      "price": 12100
+    },
+    {
+      "model": "Mrs Sprinter",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 3.0,
+      "RacingTo100": 19.9,
+      "FuelConsumption": 17,
+      "price": 13800
+    },
+    {
+      "model": "Fiat Ducato",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 3.4,
+      "RacingTo100": 18.6,
+      "FuelConsumption": 20,
+      "price": 12500
+    }
+ ]

@@ -1,0 +1,34 @@
+ [
+    {
+      "model": "Renault Logan",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 1.6,
+      "RacingTo100": 13.9,
+      "FuelConsumption": 10,
+      "price": 8500
+    },
+    {
+      "model": "Skoda Rapid",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 1.6,
+      "RacingTo100": 11.4,
+      "FuelConsumption": 8,
+      "price": 12000
+    },
+    {
+      "model": "VW Passat",
+      "Fuel":"Diesel",
+      "VolumeofEngine": 1.9,
+      "RacingTo100": 7.2,
+      "FuelConsumption": 12,
+      "price": 14300
+    },
+    {
+      "model": "Dodge Charger",
+      "Fuel": "Petrol",
+      "VolumeofEngine": 5.7,
+      "RacingTo100": 5.4,
+      "FuelConsumption": 15,
+      "price": 22750
+    }
+  ]
